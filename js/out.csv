@@ -1,0 +1,53 @@
+Seq,Host,Starttime,JobRuntime,Send,Receive,Exitval,Signal,Command,V1,Stdout,Stderr
+1,:,1693675162.889,1.284,0,50,0,0,"node parallel.js 1000 23000",23000,"We got 1000 number of rows between 23000 and 1000
+",
+4,:,1693675162.903,1.280,0,49,0,0,"node parallel.js 1000 2000",2000,"We got 1000 number of rows between 2000 and 1000
+",
+2,:,1693675162.893,1.292,0,50,0,0,"node parallel.js 1000 20000",20000,"We got 1000 number of rows between 20000 and 1000
+",
+3,:,1693675162.898,1.293,0,49,0,0,"node parallel.js 1000 4000",4000,"We got 1000 number of rows between 4000 and 1000
+",
+5,:,1693675164.182,1.294,0,50,0,0,"node parallel.js 1000 22000",22000,"We got 1000 number of rows between 22000 and 1000
+",
+6,:,1693675164.192,1.292,0,50,0,0,"node parallel.js 1000 10000",10000,"We got 1000 number of rows between 10000 and 1000
+",
+7,:,1693675164.198,1.292,0,50,0,0,"node parallel.js 1000 19000",19000,"We got 1000 number of rows between 19000 and 1000
+",
+8,:,1693675164.207,1.292,0,49,0,0,"node parallel.js 1000 3000",3000,"We got 1000 number of rows between 3000 and 1000
+",
+9,:,1693675165.484,1.295,0,50,0,0,"node parallel.js 1000 12000",12000,"We got 1000 number of rows between 12000 and 1000
+",
+11,:,1693675165.498,1.288,0,50,0,0,"node parallel.js 1000 15000",15000,"We got 1000 number of rows between 15000 and 1000
+",
+10,:,1693675165.491,1.296,0,49,0,0,"node parallel.js 1000 1000",1000,"We got 1000 number of rows between 1000 and 1000
+",
+12,:,1693675165.507,1.299,0,50,0,0,"node parallel.js 1000 14000",14000,"We got 1000 number of rows between 14000 and 1000
+",
+13,:,1693675166.786,1.290,0,50,0,0,"node parallel.js 1000 18000",18000,"We got 1000 number of rows between 18000 and 1000
+",
+14,:,1693675166.793,1.299,0,49,0,0,"node parallel.js 1000 8000",8000,"We got 1000 number of rows between 8000 and 1000
+",
+16,:,1693675166.813,1.295,0,49,0,0,"node parallel.js 1000 9000",9000,"We got 1000 number of rows between 9000 and 1000
+",
+15,:,1693675166.807,1.302,0,50,0,0,"node parallel.js 1000 17000",17000,"We got 1000 number of rows between 17000 and 1000
+",
+17,:,1693675168.084,1.304,0,49,0,0,"node parallel.js 1000 7000",7000,"We got 1000 number of rows between 7000 and 1000
+",
+18,:,1693675168.099,1.296,0,50,0,0,"node parallel.js 1000 16000",16000,"We got 1000 number of rows between 16000 and 1000
+",
+19,:,1693675168.115,1.303,0,46,0,0,"node parallel.js 1000 0",0,"We got 1000 number of rows between 0 and 1000
+",
+20,:,1693675168.124,1.307,0,50,0,0,"node parallel.js 1000 24000",24000,"We got 1000 number of rows between 24000 and 1000
+",
+22,:,1693675169.403,1.292,0,50,0,0,"node parallel.js 1000 21000",21000,"We got 1000 number of rows between 21000 and 1000
+",
+21,:,1693675169.396,1.301,0,50,0,0,"node parallel.js 1000 13000",13000,"We got 1000 number of rows between 13000 and 1000
+",
+23,:,1693675169.425,1.301,0,50,0,0,"node parallel.js 1000 25000",25000,"We got 1000 number of rows between 25000 and 1000
+",
+24,:,1693675169.438,1.291,0,49,0,0,"node parallel.js 1000 5000",5000,"We got 1000 number of rows between 5000 and 1000
+",
+25,:,1693675170.703,1.260,0,50,0,0,"node parallel.js 1000 11000",11000,"We got 1000 number of rows between 11000 and 1000
+",
+26,:,1693675170.726,1.257,0,49,0,0,"node parallel.js 1000 6000",6000,"We got 1000 number of rows between 6000 and 1000
+",
